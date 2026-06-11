@@ -90,6 +90,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Satoshi', Arial, sans-serif; margin-top: 
   z-index: 1;
 }
 .primary-button-fill:hover { color: #fff; }
+.service-content-box .primary-button-fill:hover { color: var(--dark); }
 .primary-button-fill.outline { background: transparent; border: 1px solid rgba(255,255,255,0.25); color: #fff; }
 .primary-button-fill.outline:hover { border-color: var(--accent); color: var(--accent); }
 .button-arrow-wrapper {
